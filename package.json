@@ -11,10 +11,10 @@
   "dependencies": {
     "three": "^0.167.0",
     "@mediapipe/hands": "^0.4.1675469240",
-    "@mediapipe/camera_utils": "^0.3.1675469240",
-    "@mediapipe/drawing_utils": "^0.3.1675469240"
+    "@mediapipe/camera_utils": "^0.3.1640029074"
   },
   "devDependencies": {
     "vite": "^5.4.0"
   }
 }
+
